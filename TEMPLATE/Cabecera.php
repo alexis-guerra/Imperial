@@ -1,40 +1,38 @@
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMPERIAL</title>
-    <link rel="stylesheet" href="./CSS2.0/bootstrap.min.css" />
-    <link rel="stylesheet" href="./CSS2.0/estilo.css">
-</head>
-<body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">IMPERIAL</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarColor01">
-      <ul class="navbar-nav me-auto">
-      <li class="nav-item">
-          <a class="nav-link" href="administrador/index.php">Iniciar Sesion</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panel.php">INICIO
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="libros.php">PERFIL</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="comunidades.php">COMUNIDADES</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
-<div class="conteiner">
-    <br/>
-    <div class="row"> 
+
+<!-- Additional CSS Files -->
+<link rel="stylesheet" href="assets/css/fontawesome.css">
+<link rel="stylesheet" href="assets/css/templatemo-edu-meeting.css">
+<link rel="stylesheet" href="assets/css/owl.css">
+<link rel="stylesheet" href="assets/css/lightbox.css">
+
+
+<header class="header-area header-sticky">
+      <div class="container">
+          <div class="row">
+              <div class="col-12">
+                  <nav class="main-nav">
+                      <!-- ***** Logo Start ***** -->
+                      <a href="index.html" class="logo" style="background-color:#000000; color:#FFFFFF;">
+                    Imperial
+                        </a>
+                      <!-- ***** Logo End ***** -->
+                      <!-- ***** Menu Start ***** -->
+                      <ul class="nav" >
+                      <li class="scroll-to-section"><a href="index.php" class="logo" style="background-color:#000000; color:#FFFFFF;">INICIO</a></li>
+                          <li class="scroll-to-section"><a href="panel.php" class="logo" style="background-color:#000000; color:#FFFFFF;">PARTE 1</a></li>
+                          <li class="scroll-to-section"><a href="panelPt2.php" class="logo" style="background-color:#000000; color:#FFFFFF;">PARTE 2</a></li>
+                          <li class="scroll-to-section"><a href="panelPt3.php" class="logo" style="background-color:#000000; color:#FFFFFF;">PARTE 3</a></li>
+                          <li class="scroll-to-section"><a href="panelPt4.php" class="logo" style="background-color:#000000; color:#FFFFFF;">PARTE 4</a></li>
+                          <li class="scroll-to-section"><a href="panelPt5.php" class="logo" style="background-color:#000000; color:#FFFFFF;">PARTE 5</a></li>
+                          <li class="scroll-to-section"><a href="panelPt6.php" class="logo" style="background-color:#000000; color:#FFFFFF;">PARTE 6</a></li>
+                          <li class="scroll-to-section"><a href="panelPt7.php" class="logo" style="background-color:#000000; color:#FFFFFF;">PARTE 7</a></li>
+                      </ul>        
+                  </nav>
+              </div>
+          </div>
+      </div>
+  </header>
+
+  
