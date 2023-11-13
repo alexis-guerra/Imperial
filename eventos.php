@@ -14,7 +14,12 @@
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-
+    <style>
+        /* Puedes incluir estilos adicionales aquí si es necesario */
+        h2 {
+            color: #000000; /* Cambia #ff0000 al color que desees */
+        }
+    </style>
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-scholar.css">
@@ -27,8 +32,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <div class="section-heading">
-            <h6>Schedule</h6>
-            <h2>Upcoming Events</h2>
+            <h2>Eventos Recientes</h2>
           </div>
         </div>
         <div class="col-lg-12 col-md-6">
@@ -42,20 +46,16 @@
               <div class="col-lg-9">
                 <ul>
                   <li>
-                    <span class="category">Web Design</span>
-                    <h4>UI Best Practices</h4>
+                    <span class="category">Diseño Web</span>
+                    <h4>Hackaton</h4>
                   </li>
                   <li>
-                    <span>Date:</span>
-                    <h6>16 Feb 2036</h6>
+                    <span>Fecha:</span>
+                    <h6>18 oct 2023</h6>
                   </li>
                   <li>
-                    <span>Duration:</span>
-                    <h6>22 Hours</h6>
-                  </li>
-                  <li>
-                    <span>Price:</span>
-                    <h6>$120</h6>
+                    <span>Duración:</span>
+                    <h6>24 Horas</h6>
                   </li>
                 </ul>
                 <a href="#"><i class="fa fa-angle-right"></i></a>
@@ -75,19 +75,15 @@
                 <ul>
                   <li>
                     <span class="category">Front End</span>
-                    <h4>New Design Trend</h4>
+                    <h4>InnovaTEC</h4>
                   </li>
                   <li>
-                    <span>Date:</span>
-                    <h6>24 Feb 2036</h6>
+                    <span>Fecha:</span>
+                    <h6> 16 nov 2023</h6>
                   </li>
                   <li>
-                    <span>Duration:</span>
-                    <h6>30 Hours</h6>
-                  </li>
-                  <li>
-                    <span>Price:</span>
-                    <h6>$320</h6>
+                    <span>Duración:</span>
+                    <h6>48 Horas</h6>
                   </li>
                 </ul>
                 <a href="#"><i class="fa fa-angle-right"></i></a>
@@ -110,16 +106,12 @@
                     <h4>Web Programming</h4>
                   </li>
                   <li>
-                    <span>Date:</span>
-                    <h6>12 Mar 2036</h6>
+                    <span>Fecha:</span>
+                    <h6>12 Mar 2024</h6>
                   </li>
                   <li>
-                    <span>Duration:</span>
-                    <h6>48 Hours</h6>
-                  </li>
-                  <li>
-                    <span>Price:</span>
-                    <h6>$440</h6>
+                    <span>Duración:</span>
+                    <h6>48 Horas</h6>
                   </li>
                 </ul>
                 <a href="#"><i class="fa fa-angle-right"></i></a>

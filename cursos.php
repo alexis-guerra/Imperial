@@ -37,10 +37,10 @@
               <img src="assets/images/service-01.png" alt="online degrees">
             </div>
             <div class="main-content">
-              <h4>Online Degrees</h4>
-              <p>Whenever you need free templates in HTML CSS, you just remember TemplateMo website.</p>
+              <h4>Cursos en linea</h4>
+              <p>Conoce los diferentes cursos en linea disponibles.</p>
               <div class="main-button">
-                <a href="#">Read More</a>
+                <a href="#">Conocer más</a>
               </div>
             </div>
           </div>
@@ -51,10 +51,10 @@
               <img src="assets/images/service-02.png" alt="short courses">
             </div>
             <div class="main-content">
-              <h4>Short Courses</h4>
-              <p>You can browse free templates based on different tags such as digital marketing, etc.</p>
+              <h4>Cursos Presenciales</h4>
+              <p>Conoce los diferentes cursos en presenciales disponibles.</p>
               <div class="main-button">
-                <a href="#">Read More</a>
+                <a href="#">Conocer más</a>
               </div>
             </div>
           </div>
@@ -65,10 +65,10 @@
               <img src="assets/images/service-03.png" alt="web experts">
             </div>
             <div class="main-content">
-              <h4>Web Experts</h4>
-              <p>You can start learning HTML CSS by modifying free templates from our website too.</p>
+              <h4>Cursos semipresenciales</h4>
+              <p>Conoce los diferentes cursos en modalidad semipresencial disponibles.</p>
               <div class="main-button">
-                <a href="#">Read More</a>
+                <a href="#">Conocer más</a>
               </div>
             </div>
           </div>
@@ -89,6 +89,5 @@
   <script src="assets/js/counter.js"></script>
   <script src="assets/js/custom.js"></script>
 
-  <?php include("template/pie.php");?>
 
   

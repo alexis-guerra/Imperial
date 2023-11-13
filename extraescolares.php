@@ -27,23 +27,20 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <div class="section-heading">
-            <h6>Latest Courses</h6>
-            <h2>Latest Courses</h2>
+            <h2>Actividades Extraescolares</h2>
+            <h6>Conoce las Actividades extraescolares disponibles</h6>
           </div>
         </div>
       </div>
       <ul class="event_filter">
         <li>
-          <a class="is_active" href="#!" data-filter="*">Show All</a>
+          <a class="is_active" href="#!" data-filter="*">Mostrar Todas</a>
         </li>
         <li>
-          <a href="#!" data-filter=".design">Webdesign</a>
+          <a href="#!" data-filter=".design">Deportivas</a>
         </li>
         <li>
-          <a href="#!" data-filter=".development">Development</a>
-        </li>
-        <li>
-          <a href="#!" data-filter=".wordpress">Wordpress</a>
+          <a href="#!" data-filter=".development">Artisticas</a>
         </li>
       </ul>
       <div class="row event_box">
@@ -51,12 +48,11 @@
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="assets/images/course-01.jpg" alt=""></a>
-              <span class="category">Webdesign</span>
-              <span class="price"><h6><em>$</em>160</h6></span>
+              <span class="category">Deportivas</span>
             </div>
             <div class="down-content">
               <span class="author">Stella Blair</span>
-              <h4>Learn Web Design</h4>
+              <h4>Taekwondo</h4>
             </div>
           </div>
         </div>
@@ -64,12 +60,11 @@
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="assets/images/course-02.jpg" alt=""></a>
-              <span class="category">Development</span>
-              <span class="price"><h6><em>$</em>340</h6></span>
+              <span class="category">Artisticas</span>
             </div>
             <div class="down-content">
               <span class="author">Cindy Walker</span>
-              <h4>Web Development Tips</h4>
+              <h4>Canto</h4>
             </div>
           </div>
         </div>
@@ -77,12 +72,11 @@
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="assets/images/course-03.jpg" alt=""></a>
-              <span class="category">Wordpress</span>
-              <span class="price"><h6><em>$</em>640</h6></span>
+              <span class="category">Deportivas</span>
             </div>
             <div class="down-content">
               <span class="author">David Hutson</span>
-              <h4>Latest Web Trends</h4>
+              <h4>Atletismo</h4>
             </div>
           </div>
         </div>
@@ -90,12 +84,11 @@
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="assets/images/course-04.jpg" alt=""></a>
-              <span class="category">Development</span>
-              <span class="price"><h6><em>$</em>450</h6></span>
+              <span class="category">Artisticas</span>
             </div>
             <div class="down-content">
               <span class="author">Stella Blair</span>
-              <h4>Online Learning Steps</h4>
+              <h4>Club de lectura</h4>
             </div>
           </div>
         </div>
@@ -103,12 +96,11 @@
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="assets/images/course-05.jpg" alt=""></a>
-              <span class="category">Wordpress</span>
-              <span class="price"><h6><em>$</em>320</h6></span>
+              <span class="category">Artisticas</span>
             </div>
             <div class="down-content">
               <span class="author">Sophia Rose</span>
-              <h4>Be a WordPress Master</h4>
+              <h4>Filosofia</h4>
             </div>
           </div>
         </div>
@@ -116,12 +108,11 @@
           <div class="events_item">
             <div class="thumb">
               <a href="#"><img src="assets/images/course-06.jpg" alt=""></a>
-              <span class="category">Webdesign</span>
-              <span class="price"><h6><em>$</em>240</h6></span>
+              <span class="category">Deportivas</span>
             </div>
             <div class="down-content">
               <span class="author">David Hutson</span>
-              <h4>Full Stack Developer</h4>
+              <h4>Futbol</h4>
             </div>
           </div>
         </div>

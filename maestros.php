@@ -60,6 +60,16 @@
     </div>
   </div>
 
+  <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <div class="section-heading">
+            <h2>Conoce a tus maestros</h2>
+            <h6>Conoce a tus maestros</h6>
+          </div>
+        </div>
+      </div>
+
   <div class="team section" id="team">
     <div class="container">
       <div class="row">
@@ -67,8 +77,8 @@
           <div class="team-member">
             <div class="main-content">
               <img src="assets/images/member-01.jpg" alt="">
-              <span class="category">UX Teacher</span>
-              <h4>Sophia Rose</h4>
+              <span class="category">Maestra de Base de datos</span>
+              <h4>Ashlee Rose</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -81,7 +91,7 @@
           <div class="team-member">
             <div class="main-content">
               <img src="assets/images/member-02.jpg" alt="">
-              <span class="category">Graphic Teacher</span>
+              <span class="category">Maestra de Diseño grafico</span>
               <h4>Cindy Walker</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
@@ -95,7 +105,7 @@
           <div class="team-member">
             <div class="main-content">
               <img src="assets/images/member-03.jpg" alt="">
-              <span class="category">Full Stack Master</span>
+              <span class="category">Maestro de POO</span>
               <h4>David Hutson</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
@@ -109,7 +119,7 @@
           <div class="team-member">
             <div class="main-content">
               <img src="assets/images/member-04.jpg" alt="">
-              <span class="category">Digital Animator</span>
+              <span class="category">Maestra de Animacion Digital</span>
               <h4>Stella Blair</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
@@ -129,9 +139,9 @@
         <div class="col-lg-7">
           <div class="owl-carousel owl-testimonials">
             <div class="item">
-              <p>“Please tell your friends or collegues about TemplateMo website. Anyone can access the website to download free templates. Thank you for visiting.”</p>
+              <p>“Gran maestro Mclovin, es mi papá, lo amo”</p>
               <div class="author">
-                <img src="assets/images/testimonial-author.jpg" alt="">
+                <img src="assets/images/mclovin.jpg" alt="">
                 <span class="category">Full Stack Master</span>
                 <h4>Claude David</h4>
               </div>
@@ -156,9 +166,9 @@
         </div>
         <div class="col-lg-5 align-self-center">
           <div class="section-heading">
-            <h6>TESTIMONIALS</h6>
-            <h2>What they say about us?</h2>
-            <p>You can search free CSS templates on Google using different keywords such as templatemo portfolio, templatemo gallery, templatemo blue color, etc.</p>
+            <h6>Testimonios de alumnos</h6>
+            <h2>¿Qué dicen sobre nosotros?</h2>
+            <p>Aqui encontraras algunos comentarios de tus compañeros, sobre tus maestros favoritos.</p>
           </div>
         </div>
       </div>
