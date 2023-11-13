@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Scholar - Online School HTML5 Template</title>
+    <title>Maestros</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -32,25 +32,25 @@
               <div class="col-lg-3 col-md-6">
                 <div class="counter">
                   <h2 class="timer count-title count-number" data-to="150" data-speed="1000"></h2>
-                   <p class="count-text ">Happy Students</p>
+                   <p class="count-text ">Estudiantes Felices</p>
                 </div>
               </div>
               <div class="col-lg-3 col-md-6">
                 <div class="counter">
                   <h2 class="timer count-title count-number" data-to="804" data-speed="1000"></h2>
-                  <p class="count-text ">Course Hours</p>
+                  <p class="count-text ">Horas Cursadas</p>
                 </div>
               </div>
               <div class="col-lg-3 col-md-6">
                 <div class="counter">
                   <h2 class="timer count-title count-number" data-to="50" data-speed="1000"></h2>
-                  <p class="count-text ">Employed Students</p>
+                  <p class="count-text ">Estudiantes Egresados</p>
                 </div>
               </div>
               <div class="col-lg-3 col-md-6">
                 <div class="counter end">
                   <h2 class="timer count-title count-number" data-to="15" data-speed="1000"></h2>
-                  <p class="count-text ">Years Experience</p>
+                  <p class="count-text ">Años Cursados</p>
                 </div>
               </div>
             </div>
@@ -105,8 +105,8 @@
           <div class="team-member">
             <div class="main-content">
               <img src="assets/images/member-03.jpg" alt="">
-              <span class="category">Maestro de POO</span>
-              <h4>David Hutson</h4>
+              <span class="category">Maestro de Seguridad Informatica</span>
+              <h4>JESUS RICARDO PALMA VALDEZ</h4>
               <ul class="social-icons">
                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
