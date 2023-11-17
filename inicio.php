@@ -53,10 +53,6 @@
       </div>
   </header>
 
-TemplateMo 569 Edu Meeting
-
-https://templatemo.com/tm-569-edu-meeting
-
 -->
   </head>
 

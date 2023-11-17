@@ -1,4 +1,3 @@
-<?php include("/cabecera.php");?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -58,11 +57,7 @@
       </div>
   </header>
 
-TemplateMo 586 Scholar
 
-https://templatemo.com/tm-586-scholar
-
--->
   </head>
 
 <body>
