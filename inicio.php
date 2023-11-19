@@ -1,4 +1,3 @@
-<?php include("template/cabecera.php");?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,7 +9,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
-    <title>IMPERIAL</title>
+    <title>Imperial</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -21,21 +20,42 @@
     <link rel="stylesheet" href="assets/css/templatemo-edu-meeting.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/lightbox.css">
-<!--
 
-TemplateMo 569 Edu Meeting
-
-https://templatemo.com/tm-569-edu-meeting
-
--->
   </head>
 
 <body>
 
-
-
   <!-- ***** Header Area Start ***** -->
-
+  <header class="header-area header-sticky">
+      <div class="container">
+          <div class="row">
+              <div class="col-12">
+                  <nav class="main-nav">
+                      <!-- ***** Logo Start ***** -->
+                      <a href="inicio.php" class="logo">
+                          Imperial
+                      </a>
+                      <!-- ***** Logo End ***** -->
+                      <!-- ***** Menu Start ***** -->
+                      <ul class="nav" >
+                      <li class="scroll-to-section"><a href="inicio.php" class="active">INICIO</a></li>
+                          <li class="scroll-to-section"><a href="carreras.php">Carreras</a></li>
+                          <li class="scroll-to-section"><a href="cursos.php">Cursos</a></li>
+                          <li class="scroll-to-section"><a href="extraescolares.php">Extraescolares</a></li>
+                          <li class="scroll-to-section"><a href="maestros.php">Maestros</a></li>
+                          <li class="scroll-to-section"><a href="eventos.php">Eventos</a></li>
+                          <li class="scroll-to-section"><a href="servicios.php">Servicios Escolares</a></li>
+                          <li class="scroll-to-section"><a href="informacion.php">informacion</a></li>
+                      </ul>        
+                      <a class='menu-trigger'>
+                          <span>Menu</span>
+                      </a>
+                      <!-- ***** Menu End ***** -->
+                  </nav>
+              </div>
+          </div>
+      </div>
+  </header>
   <!-- ***** Header Area End ***** -->
 
   <!-- ***** Main Banner Area Start ***** -->
@@ -50,15 +70,17 @@ https://templatemo.com/tm-569-edu-meeting
               <div class="col-lg-12">
                 <div class="caption">
               <h6>Hola Estudiantes</h6>
-              <h2>Bienvenidos a IMPERIAL </h2>
-              <p><a>En esta plataforma podras administrar todos los aspectos como estudiante dentro de tu escuela, podras llevar un orden en tu recorrido de estudiante, como tambien conocer mas a fondo sobre tu escuela.</a>.</p>
-              <div class="main-button-red">
-                  <div class="scroll-to-section"><a href="#contact">Vamos!</a></div>
+              <h2>Bienvenidos a Imperial</h2>
+              <p>Este es nuestro sistema escolar donde encontraras todas las herramientas necesarias para poder tener una experencia estudiantil de 
+                una forma mucho mas avanzada. 
+              </a>.</p>
+          </div>
               </div>
             </div>
           </div>
       </div>
   </section>
+
 </body>
 
-<?php include("template/pie.php");?>
+</html>
