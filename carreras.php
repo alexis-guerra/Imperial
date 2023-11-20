@@ -1,11 +1,10 @@
 <?php include("template/cabecera.php");?>
-
-<div class="main-banner" id="top">
+<div class="main-banner">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <div class="owl-carousel owl-banner">
-          <div class= "item">
+          <div class= "item item-1">
             <div class="header-text">
               <span class="category">Ingenieria Informatica</span>
               <h2></h2>

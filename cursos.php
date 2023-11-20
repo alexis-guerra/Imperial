@@ -1,11 +1,9 @@
 <?php include("template/cabecera.php");?>
 
-
-</body> 
-<div class="services section" id="services">
+<div class="services section">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-md-6">
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
           <div class="service-item">
             <div class="icon">
               <img src="assets/images/service-01.png" alt="online degrees">
@@ -50,7 +48,7 @@
       </div>
     </div>
   </div>
-<body>
+
 
 
 
