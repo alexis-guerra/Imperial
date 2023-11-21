@@ -1,4 +1,5 @@
 <?php
+include ("/config/conn.php");
 
 if(!empty($_POST["iniciar"])){
     if (empty($_POST["CorreoElectronico"]) and empty($_POST["contraseña"])) {
