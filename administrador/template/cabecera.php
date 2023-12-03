@@ -1,58 +1,66 @@
-<?php
-session_start();
-if(!isset($_SESSION['usuario']))   {
-  header("Location:../index.php");
-}
-  else{
-    if($_SESSION['usuario']=="ok"){
-      $nombreUsuario=$_SESSION["nombreUsuario"];
-    }
-  }
-
-
-?>
-
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+
   <head>
-    <title>Title</title>
-    <!-- Required meta tags -->
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>IMPERIAL</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-scholar.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="assets\css\newstyless.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<!--
+
+
+-->
   </head>
-  <body>
-    <?php $url="http://".$_SERVER["HTTP_HOST"]."/FUTURE-SW"?>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">FUTURE</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarColor02">
-      <ul class="navbar-nav me-auto">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Administrador del Sitio
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<?php echo $url;?>/administrador/inicio.php">Inicio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<?php echo $url;?>/administrador/seccion/productos.php">Productos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<?php echo $url;?>/administrador/seccion/cerrar.php">Cerrar Sesion </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="<?php echo $url;?>">Ver sitio </a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+
+<body>
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
     <div class="container">
-        <br/>
         <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="inicio.php" class="logo">
+                        <h1>Imperial</h1>
+                    </a>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav" >
+                      <li class="scroll-to-section"><a href="inicio.php">INICIO</a></li>
+                          <li class="scroll-to-section"><a href="carreras.php">Carreras</a></li>
+                          <li class="scroll-to-section"><a href="cursos.php">Cursos</a></li>
+                          <li class="scroll-to-section"><a href="extraescolares.php">Extraescolares</a></li>
+                          <li class="scroll-to-section"><a href="maestros.php">Maestros</a></li>
+                          <li class="scroll-to-section"><a href="eventos.php">Eventos</a></li>
+                          <li class="scroll-to-section"><a href="servicios.php">Servicios Escolares</a></li>
+                          <li class="scroll-to-section"><a href="informacion.php">informacion</a></li>
+                      </ul>    
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
+        </div>
+    </div>
+  </header>
+
+  </body>
+</html>
+
+  

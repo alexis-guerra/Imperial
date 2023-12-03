@@ -1,53 +1,50 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMPERIAL</title>
-    <link rel="stylesheet" href="./CSS2.0/bootstrap.min.css" />
-    <link rel="stylesheet" href="./CSS2.0/estilo.css">
-</head>
-<body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">IMPERIAL</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarColor01">
-      <ul class="navbar-nav me-auto">
-      <li class="nav-item">
-          <a class="nav-link" href="index.php">INICIO</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panel.php">PARTE 1</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panelPt2.php">PARTE 2</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panelPt3.php">PARTE 3</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panelPt4.php">PARTE 4</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panelPt5.php">PARTE 5</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panelPt6.php">PARTE 6</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="panelPt7.php">PARTE 7</a>
-        </li>
-
-        </li>
-      </ul>
+</body> 
+<div class="services section" id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="service-item">
+            <div class="icon">
+              <img src="assets/images/service-01.png" alt="online degrees">
+            </div>
+            <div class="main-content">
+              <h4>Cursos en linea</h4>
+              <p>Conoce los diferentes cursos en linea disponibles.</p>
+              <div class="main-button">
+                <a href="#">Conocer más</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="service-item">
+            <div class="icon">
+              <img src="assets/images/service-02.png" alt="short courses">
+            </div>
+            <div class="main-content">
+              <h4>Cursos Presenciales</h4>
+              <p>Conoce los diferentes cursos en presenciales disponibles.</p>
+              <div class="main-button">
+                <a href="#">Conocer más</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="service-item">
+            <div class="icon">
+              <img src="assets/images/service-03.png" alt="web experts">
+            </div>
+            <div class="main-content">
+              <h4>Cursos semipresenciales</h4>
+              <p>Conoce los diferentes cursos en modalidad semipresencial disponibles.</p>
+              <div class="main-button">
+                <a href="#">Conocer más</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</nav>
-<div class="conteiner">
-    <br/>
-    <div class="row"> 
+<body>

@@ -48,7 +48,14 @@
                           <li class="scroll-to-section"><a href="maestros.php">Maestros</a></li>
                           <li class="scroll-to-section"><a href="eventos.php">Eventos</a></li>
                           <li class="scroll-to-section"><a href="servicios.php">Servicios Escolares</a></li>
-                          <li class="scroll-to-section"><a href="informacion.php">informacion</a></li>
+                          <li class="scroll-to-section"><a href="informacion.php">Informacion</a></li>
+                          <li class="scroll-to-section"><a href="inscripcion.php">Inscripcion</a></li>
+                          <li class="scroll-to-section"><a href="reticula.php">Reticulas Escolares</a></li>
+                          <li class="scroll-to-section"><a href="tutorias.php">Tutorias Escolares</a></li>
+                          <li class="scroll-to-section"><a href="departamentos.php">Departamentos Escolares</a></li>
+                          <li class="scroll-to-section"><a href="constancias.php">Constancias Escolares</a></li>
+
+
                       </ul>    
                     <a class='menu-trigger'>
                         <span>Menu</span>
