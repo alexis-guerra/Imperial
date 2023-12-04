@@ -64,7 +64,7 @@
                     <div class="last-thumb">
                       <div class="thumb">                 
                         <span class="icon"><img src="assets/tutoria/images/search-icon-04.png" alt=""></span>
-                        Traveling
+                        Travelingdadawd
                       </div>
                     </div>
                   </div>
