@@ -47,7 +47,7 @@
             <input type="text" id="numero_transferencia" name="numero_transferencia" required>
         </div>
         <div class="contenedor">
-            <label for="numero_referencia">NumeroReferencia</label>
+            <label for="numero_referencia">Numero telefonico de referencia</label>
             <input type="text" id="numero_referencia" name="numero_referencia" required>
         </div>
         <div class="contenedor">
