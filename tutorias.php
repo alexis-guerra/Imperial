@@ -35,7 +35,7 @@
                     <div class="section-heading dark-bg">
                         <h2>Tutorias Escolares</h2>
                         <img src="assets/images/line-dec.png" alt="">
-                        <p>Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra ipsum dolor, ultricies fermentum massa consequat eu.</p>
+                        <p>Bienvenido al espacio de tutorías de la plataforma, diseñado para potenciar el rendimiento académico y el desarrollo integral de los estudiantes. En este apartado, encontrarás las herramientas y recursos para fortalecer el proceso educativo y garantizar un aprendizaje significativo.</p>
                     </div>
                 </div>
             </div>

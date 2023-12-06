@@ -42,7 +42,7 @@
               <div class="col-lg-6 offset-lg-3">
                 <div class="section-heading">
                   <h2>Solicita Tu Constancia</h2>
-                  <h3>Escribe aqui tus datos personales y el motivo por el cual estas solicitando tu constancia.</h3>
+                  <h6>Bienvenido al espacio de constancias de nuestra plataforma educativa. Llena Los Datos Para Comunicarte Con Nosotros.</h6>
                 </div>
               </div>
               <div class="col-lg-9">
@@ -59,26 +59,27 @@
                   </div>
                   <div class="col-lg-6">
                     <fieldset>
-                      <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Correo Institucional" required="">
+                      <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Correo Electronico" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-6">
                     <fieldset>
-                      <input type="subject" name="subject" id="subject" placeholder="Numero de Control" autocomplete="on">
+                      <input type="subject" name="subject" id="subject" placeholder="Asunto" autocomplete="on">
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Razon de solicitud" required=""></textarea>  
+                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Descripcion" required=""></textarea>  
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="main-button ">Enviar solicitud</button>
+                      <button type="submit" id="form-submit" class="main-button ">Enviar</button>
                     </fieldset>
                   </div>
                 </div>
               </div>
+              
               </div>
             </div>
           </form>
