@@ -47,7 +47,7 @@
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't eiusmod tempor incididunt ut labore consectetur <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+                Descubre una educación de calidad, apoyo integral y oportunidades para destacar. Te ofrecemos más que clases; te brindamos un camino hacia el éxito profesional y personal. ¡Inscríbete ahora y comienza tu viaje hacia el logro de tus metas!
                 </div>
               </div>
             </div>
@@ -59,7 +59,8 @@
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't eiusmod tempor incididunt ut labore consectetur <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+                Experimenta un entorno educativo único, donde el apoyo integral, enfoque práctico, desarrollo personalizado y una comunidad vibrante se entrelazan para brindarte una educación que va más allá de las expectativas. 
+                Únete a nosotros y descubre el poder transformador de de la institución. Tu futuro comienza aquí.
                 </div>
               </div>
             </div>
@@ -83,7 +84,11 @@
               </h2>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  You can also search on Google with specific keywords such as <code>templatemo business templates, templatemo gallery templates, admin dashboard templatemo, 3-column templatemo, etc.</code>
+                Al egresar de la institución, no solo obtendrás un título, sino un conjunto de habilidades distintivas que impulsarán tu éxito:
+                Desarrollarás competencias técnicas avanzadas para destacar en tu campo. Perfeccionarás el pensamiento crítico y analítico, esencial para abordar desafíos complejos. Tus habilidades de comunicación se afilarán, permitiéndote expresar ideas con claridad y persuasión.
+                Aprenderás a trabajar eficazmente en equipo, a adaptarte a entornos cambiantes con resiliencia y a liderar éticamente. Estimularás tu pensamiento creativo y te familiarizarás con las últimas herramientas digitales.
+                Fomentamos el desarrollo continuo y construimos conexiones profesionales valiosas. Tu tiempo aquí no solo te preparará para el éxito inmediato, sino que te equipará para prosperar en un mundo en constante evolución.
+                ¡Tu éxito comienza con habilidades que trascienden el aula!
                 </div>
               </div>
             </div>
