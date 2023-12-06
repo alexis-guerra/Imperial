@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 (function ($) {
@@ -57,6 +58,13 @@
   
   "use strict";
 
+=======
+
+  (function ($) {
+  
+  "use strict";
+
+>>>>>>> parent of 586b582 (92%)
     // MENU
     $('.navbar-collapse a').on('click',function(){
       $(".navbar-collapse").collapse('hide');
@@ -105,4 +113,7 @@
   })(window.jQuery);
 
 
+<<<<<<< HEAD
+>>>>>>> parent of 586b582 (92%)
+=======
 >>>>>>> parent of 586b582 (92%)
