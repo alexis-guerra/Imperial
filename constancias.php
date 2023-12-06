@@ -43,12 +43,17 @@
                 <div class="section-heading">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                   <h2>Solicita Tu Constancia</h2>
                   <h6>Bienvenido al espacio de constancias de nuestra plataforma educativa. Llena Los Datos Para Comunicarte Con Nosotros.</h6>
 =======
                   <h6>Contact Us</h6>
                   <h2>Fill Out The Form Below To <span>Get</span> In <em>Touch</em> With Us</h2>
 >>>>>>> parent of 586b582 (92%)
+=======
+                  <h6>Contact Us</h6>
+                  <h2>Fill Out The Form Below To <span>Get</span> In <em>Touch</em> With Us</h2>
+>>>>>>> parent of ecc71ff (Modificaciones)
 =======
                   <h6>Contact Us</h6>
                   <h2>Fill Out The Form Below To <span>Get</span> In <em>Touch</em> With Us</h2>
@@ -71,10 +76,14 @@
                     <fieldset>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                       <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Correo Electronico" required="">
 =======
                       <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
 >>>>>>> parent of 586b582 (92%)
+=======
+                      <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
+>>>>>>> parent of ecc71ff (Modificaciones)
 =======
                       <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
 >>>>>>> parent of ecc71ff (Modificaciones)
@@ -84,6 +93,7 @@
                     <fieldset>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                       <input type="subject" name="subject" id="subject" placeholder="Asunto" autocomplete="on">
 =======
                       <input type="subject" name="subject" id="subject" placeholder="Subject" autocomplete="on">
@@ -91,10 +101,14 @@
 =======
                       <input type="subject" name="subject" id="subject" placeholder="Subject" autocomplete="on">
 >>>>>>> parent of ecc71ff (Modificaciones)
+=======
+                      <input type="subject" name="subject" id="subject" placeholder="Subject" autocomplete="on">
+>>>>>>> parent of ecc71ff (Modificaciones)
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                       <textarea name="message" type="text" class="form-control" id="message" placeholder="Descripcion" required=""></textarea>  
@@ -104,16 +118,23 @@
 =======
                       <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>  
 >>>>>>> parent of ecc71ff (Modificaciones)
+=======
+                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>  
+>>>>>>> parent of ecc71ff (Modificaciones)
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                       <button type="submit" id="form-submit" class="main-button ">Enviar</button>
 =======
                       <button type="submit" id="form-submit" class="main-button ">Send Message Now</button>
 >>>>>>> parent of 586b582 (92%)
+=======
+                      <button type="submit" id="form-submit" class="main-button ">Send Message Now</button>
+>>>>>>> parent of ecc71ff (Modificaciones)
 =======
                       <button type="submit" id="form-submit" class="main-button ">Send Message Now</button>
 >>>>>>> parent of ecc71ff (Modificaciones)
