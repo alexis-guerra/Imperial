@@ -147,7 +147,7 @@ body {
 }
 
 .section-heading h2 em {
-  color: #7a6ad8;
+  color: #000000;
   font-style: normal;
 }
 
@@ -288,10 +288,11 @@ Header Style
   background-color: #7a6ad8 !important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
-  position: fixed!important;
+  position:  sticky;
   top: 0!important;
   left: 0;
   right: 0;
+  width:100%;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.15)!important;
   -webkit-transition: all .5s ease 0s;
   -moz-transition: all .5s ease 0s;
@@ -313,7 +314,7 @@ Header Style
 }
 
 .header-area .main-nav {
-  background: transparent;
+  background: #7a6ad8;
   display: flex
 }
 
@@ -675,15 +676,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banner-item-01.jpg);
+  background-image: url(assets/images/banner-item-02);
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banner-item-02.jpg);
+  background-image: url();
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/banner-item-03.jpg);
+  background-image: url();
 }
 
 .main-banner .item {
@@ -858,7 +859,7 @@ About Style
 .about-us {
   position: relative;
   padding: 0px;
-  margin-top: 130px;
+  margin-top: 180px;
 }
 
 .about-us:before {
@@ -953,7 +954,7 @@ Courses Style
 */
 
 .courses {
-  margin-top: 160px;
+  margin-top: 105px;
 }
 
 .event_filter {
@@ -1119,7 +1120,7 @@ Facts Style
 }
 
 .fun-facts h2 {
-  color: #fff;
+  color: #000000;
   font-size: 48px;
   font-weight: 700;
 }
@@ -1130,7 +1131,7 @@ Facts Style
 }
 
 .fun-facts p {
-  color: #fff;
+  color: #000000;
   font-size: 15px;
   font-weight: 500;
   margin-top: 15px;
@@ -1191,8 +1192,8 @@ Team Style
 }
 
 .team-member .main-content ul li a {
-  background-color: #fff;
-  color: #7a6ad8;
+  background-color: #7a6ad8;
+  color: #fff;
   display: inline-block;
   text-align: center;
   line-height: 40px;
@@ -1414,7 +1415,7 @@ Contact Style
 */
 
 .contact-us {
-  margin-top: 80px;
+  margin-top: 110px;
   position: relative;
   padding: 50px 0px;
 }
