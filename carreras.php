@@ -64,7 +64,7 @@
                 <p></p>
                 <div class="buttons">
                   <div class="main-button">
-                    <a href="reticula.php">Reticula Escolar</a>
+                    <a href="#">Reticula Escolar</a>
                   </div>
                   <div class="icon-button">
                     <a href="#"><i class="fa fa-play"></i> Perfil del egresado</a>
