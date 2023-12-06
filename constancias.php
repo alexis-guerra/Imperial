@@ -41,40 +41,40 @@
             <div class="row">
               <div class="col-lg-6 offset-lg-3">
                 <div class="section-heading">
-                  <h6>Contact Us</h6>
-                  <h2>Fill Out The Form Below To <span>Get</span> In <em>Touch</em> With Us</h2>
+                  <h2>Solicita Tu Constancia</h2>
+                  <h6>Bienvenido al espacio de constancias de nuestra plataforma educativa. Llena Los Datos Para Comunicarte Con Nosotros.</h6>
                 </div>
               </div>
               <div class="col-lg-9">
                 <div class="row">
                   <div class="col-lg-6">
                     <fieldset>
-                      <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
+                      <input type="name" name="name" id="name" placeholder="Nombre" autocomplete="on" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-6">
                     <fieldset>
-                      <input type="surname" name="surname" id="surname" placeholder="Surname" autocomplete="on" required>
+                      <input type="surname" name="surname" id="surname" placeholder="Apellidos" autocomplete="on" required>
                     </fieldset>
                   </div>
                   <div class="col-lg-6">
                     <fieldset>
-                      <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
+                      <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Correo Electronico" required="">
                     </fieldset>
                   </div>
                   <div class="col-lg-6">
                     <fieldset>
-                      <input type="subject" name="subject" id="subject" placeholder="Subject" autocomplete="on">
+                      <input type="subject" name="subject" id="subject" placeholder="Asunto" autocomplete="on">
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>  
+                      <textarea name="message" type="text" class="form-control" id="message" placeholder="Descripcion" required=""></textarea>  
                     </fieldset>
                   </div>
                   <div class="col-lg-12">
                     <fieldset>
-                      <button type="submit" id="form-submit" class="main-button ">Send Message Now</button>
+                      <button type="submit" id="form-submit" class="main-button ">Enviar</button>
                     </fieldset>
                   </div>
                 </div>
