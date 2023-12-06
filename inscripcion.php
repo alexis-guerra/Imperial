@@ -25,37 +25,37 @@
     <section class="section" id="schedule">
   
     <h1>Inscripcion Escolar</h1>
-    <form id="formulario">
+    <form action="procesar_inscripcion.php" method="post" >
         <div class="contenedor">
             <label for="nombre">Nombre del interesado</label>
             <input type="text" id="nombre" name="nombre" required>
         </div>
         <div class="contenedor">
-            <label for="apellido">Apellido</label>
-            <input type="text" id="apellido" name="apellido" required>
+            <label for="apellidos">Apellidos</label>
+            <input type="text" id="apellidos" name="apellidos" required>
         </div>
         <div class="contenedor">
-            <label for="tipo_transferencia">Tipo de Transferencia</label>
-            <select id="tipo_transferencia" name="tipo_transferencia" required>
+            <label for="tipoTransferencia">Tipo de Transferencia</label>
+            <select id="tipoTransferencia" name="tipoTransferencia" required>
                 <option value="transferencia_online">Transferencia Online</option>
                 <option value="pago_movil">Pago Movil</option>
                 <option value="otra">Otra</option>
             </select>
         </div>
         <div class="contenedor">
-            <label for="numero_transferencia">Número de Transferencia</label>
-            <input type="text" id="numero_transferencia" name="numero_transferencia" required>
+            <label for="numeroTransferencia">Número de Transferencia</label>
+            <input type="text" id="numeroTransferencia" name="numeroTransferencia" required>
         </div>
         <div class="contenedor">
-            <label for="numero_referencia">NumeroReferencia</label>
-            <input type="text" id="numero_referencia" name="numero_referencia" required>
+            <label for="numeroReferencia">NumeroReferencia</label>
+            <input type="text" id="numeroReferencia" name="numeroReferencia" required>
         </div>
         <div class="contenedor">
-            <label for="cedula_representante">No. Cédula Representante</label>
-            <input type="text" id="cedula_representante" name="cedula_representante" required>
+            <label for="numeroCedula">No. Cédula Representante</label>
+            <input type="text" id="numeroCedula" name="numeroCedula" required>
         </div>
         <div class="contenedor">
-            <input type="submit" value="Enviar">
+            <input type="submit" class="btn value="Enviar">
         </div>
     </form>
 </section>

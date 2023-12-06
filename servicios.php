@@ -49,7 +49,7 @@
         </div>
         <div class="col-lg-6">
           <div class="contact-us-content">
-            <form id="contact-form" action="" method="post">
+            <form id="contact-form" action="generar_servicio.php" method="post">
               <div class="row">
                 <div class="col-lg-12">
                   <fieldset>

@@ -51,12 +51,6 @@ function clearText(field)
                         	<h2><a href="#services">Beca "Manutención"</a></h2>
 						</div>
                     </div>
-                    <div class="row1 box3">
-                    	<div class="box_with_padding">
-                        	<h2><a href="#testimonial">Beca fawf</a></h2>
-                             Maecenas malesuada, risus sit amet  congue, risus urna fringilla.
-						</div>
-                    </div>
                     <div class="row1 box4">
                     	<div class="box_with_padding">
                         	<h2><a href="#contact">Beca "Santander</a></h2>
@@ -78,7 +72,7 @@ function clearText(field)
                     <div class="row1 box6">
                         <div id="mini_contact_form">
                         	<h5>¿Que beca quieres solicitar?</h5>
-                            <form method="post" name="contact" action="#">
+                            <form method="post" name="contact" action="registrar_beca.php">
                             	<div class="col_half left">
                                	  	<textarea id="text_small" name="text" rows="0" cols="0" 
                                   		onfocus="clearText(this)" onblur="clearText(this)">Mensaje</textarea>

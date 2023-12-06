@@ -54,8 +54,10 @@
                           <li class="scroll-to-section"><a href="tutorias.php">Tutorias Escolares</a></li>
                           <li class="scroll-to-section"><a href="departamentos.php">Departamentos Escolares</a></li>
                           <li class="scroll-to-section"><a href="constancias.php">Constancias Escolares</a></li>
-
-
+                          <li class="scroll-to-section"><a href="becas.php">becas Escolares</a></li>
+                          <li class="scroll-to-section"><a href="calendario.php">Calendario academico</a></li>
+                          <li class="scroll-to-section"><a href="noticias.php">noticias Escolares</a></li>
+                          <li class="scroll-to-section"><a href="reglamento.php">reglamento Escolar</a></li>
                       </ul>    
                     <a class='menu-trigger'>
                         <span>Menu</span>
