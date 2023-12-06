@@ -33,7 +33,7 @@
                     <div class="section-heading dark-bg">
                         <h2>Reticula Escolar</h2>
                         <img src="assets/images/line-dec.png" alt="">
-                        <p>Conoce aqui la reticula de tu carrera, Ingenieria en Informatica.</p>
+                        <p>Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra ipsum dolor, ultricies fermentum massa consequat eu.</p>
                     </div>
                 </div>
             </div>
@@ -58,70 +58,70 @@
                         <table>
                             <tbody>
                                 <tr>
-                                    <td class="1er" data-tsmeta="1er">Administracion para informatica.</td>
-                                    <td class="2do" data-tsmeta="2do">Administracion de los  recursos y funcion informatica.</td>
-                                    <td class="3er" data-tsmeta="3er">Fundamentos de sistemas de informacion.</td>
-                                    <td class="4to" data-tsmeta="4to">Taller de legislacion Informatica.</td>
-                                    <td class="5to" data-tsmeta="5to">Analisis y modelado de sistemas de informacion.</td>
-                                    <td class="6to" data-tsmeta="6to">Desarrollo e implementacion de sistemas de informacion.</td>
-                                    <td class="7mo" data-tsmeta="7mo">Calidad en los sistemas de informacion.</td>
-                                    <td class="8vo" data-tsmeta="8vo">Taller de emprendedores.</td>
-                                    <td class="9no" data-tsmeta="9no">Residencia Profesional.</td>
+                                    <td class="1er" data-tsmeta="1er">2:00PM - 3:30PM</td>
+                                    <td class="2do" data-tsmeta="2do">2:00PM - 3:30PM</td>
+                                    <td class="3er" data-tsmeta="3er">2:00PM - 3:30PM</td>
+                                    <td class="4to" data-tsmeta="4to">2:00PM - 3:30PM</td>
+                                    <td class="5to" data-tsmeta="5to">2:00PM - 3:30PM</td>
+                                    <td class="6to" data-tsmeta="6to">2:00PM - 3:30PM</td>
+                                    <td class="7mo" data-tsmeta="7mo">2:00PM - 3:30PM</td>
+                                    <td class="8vo" data-tsmeta="8vo">2:00PM - 3:30PM</td>
+                                    <td class="9no" data-tsmeta="9no">2:00PM - 3:30PM</td>
                                 </tr>
                                 <tr>
-                                    <td class="1er" data-tsmeta="1er">Matematicas Discretas</td>
-                                    <td class="2do" data-tsmeta="2do">Fisica para informatica</td>
-                                    <td class="3er" data-tsmeta="3er">Sistemas electronicos para informatica</td>
-                                    <td class="4to" data-tsmeta="4to">Arquitectura de computadoras</td>
-                                    <td class="5to" data-tsmeta="5to">Tecnologias e interfaces de computadoras</td>
-                                    <td class="6to" data-tsmeta="6to">Auditoria en informatica</td>
-                                    <td class="7mo" data-tsmeta="7mo">Fundamentos de gestion de servicios</td>
-                                    <td class="8vo" data-tsmeta="8vo">Estrategia de gestion de servicios de TI</td>
-                                    <td class="9no" data-tsmeta="9no">Residencia profesional</td>
+                                    <td class="1er" data-tsmeta="1er">2:00PM - 3:30PM</td>
+                                    <td class="2do" data-tsmeta="2do">2:00PM - 3:30PM</td>
+                                    <td class="3er" data-tsmeta="3er">2:00PM - 3:30PM</td>
+                                    <td class="4to" data-tsmeta="4to">2:00PM - 3:30PM</td>
+                                    <td class="5to" data-tsmeta="5to">2:00PM - 3:30PM</td>
+                                    <td class="6to" data-tsmeta="6to">2:00PM - 3:30PM</td>
+                                    <td class="7mo" data-tsmeta="7mo">2:00PM - 3:30PM</td>
+                                    <td class="8vo" data-tsmeta="8vo">2:00PM - 3:30PM</td>
+                                    <td class="9no" data-tsmeta="9no">2:00PM - 3:30PM</td>
                                 </tr>
                                 <tr>
-                                    <td class="1er" data-tsmeta="1er">Fundamentos de programacion</td>
-                                    <td class="2do" data-tsmeta="2do">Programacion orientada a objetos</td>
-                                    <td class="3er" data-tsmeta="3er">Estructura de datos</td>
-                                    <td class="4to" data-tsmeta="4to">Administracion y organizacion de datos</td>
-                                    <td class="5to" data-tsmeta="5to">Fundamentos de base de datos.</td>
-                                    <td class="6to" data-tsmeta="6to">Taller de base de datos</td>
-                                    <td class="7mo" data-tsmeta="7mo">Topicos de base de datos</td>
-                                    <td class="8vo" data-tsmeta="8vo">Inteligecia de negocios</td>
-                                    <td class="9no" data-tsmeta="9no">Especialidad 3</td>
+                                    <td class="1er" data-tsmeta="1er">2:00PM - 3:30PM</td>
+                                    <td class="2do" data-tsmeta="2do">2:00PM - 3:30PM</td>
+                                    <td class="3er" data-tsmeta="3er">2:00PM - 3:30PM</td>
+                                    <td class="4to" data-tsmeta="4to">2:00PM - 3:30PM</td>
+                                    <td class="5to" data-tsmeta="5to">2:00PM - 3:30PM</td>
+                                    <td class="6to" data-tsmeta="6to">2:00PM - 3:30PM</td>
+                                    <td class="7mo" data-tsmeta="7mo">2:00PM - 3:30PM</td>
+                                    <td class="8vo" data-tsmeta="8vo">2:00PM - 3:30PM</td>
+                                    <td class="9no" data-tsmeta="9no">2:00PM - 3:30PM</td>
                                 </tr>
                                 <tr>
-                                    <td class="1er" data-tsmeta="1er">Taller de etica</td>
-                                    <td class="2do" data-tsmeta="2do">Contabilidad financiera</td>
-                                    <td class="3er" data-tsmeta="3er">Costos empresariales</td>
-                                    <td class="4to" data-tsmeta="4to">Fundamentos de telecomunicaciones</td>
-                                    <td class="5to" data-tsmeta="5to">Redes de computadoras</td>
-                                    <td class="6to" data-tsmeta="6to">Interconectividad de redes</td>
-                                    <td class="7mo" data-tsmeta="7mo">Administracion de servidores</td>
-                                    <td class="8vo" data-tsmeta="8vo">Especialidad 1</td>
-                                    <td class="9no" data-tsmeta="9no">Especialidad 4</td>
+                                    <td class="1er" data-tsmeta="1er">2:00PM - 3:30PM</td>
+                                    <td class="2do" data-tsmeta="2do">2:00PM - 3:30PM</td>
+                                    <td class="3er" data-tsmeta="3er">2:00PM - 3:30PM</td>
+                                    <td class="4to" data-tsmeta="4to">2:00PM - 3:30PM</td>
+                                    <td class="5to" data-tsmeta="5to">2:00PM - 3:30PM</td>
+                                    <td class="6to" data-tsmeta="6to">2:00PM - 3:30PM</td>
+                                    <td class="7mo" data-tsmeta="7mo">2:00PM - 3:30PM</td>
+                                    <td class="8vo" data-tsmeta="8vo">2:00PM - 3:30PM</td>
+                                    <td class="9no" data-tsmeta="9no">2:00PM - 3:30PM</td>
                                 </tr>
                                 <tr>
-                                    <td class="1er" data-tsmeta="1er">Calculo diferencial</td>
-                                    <td class="2do" data-tsmeta="2do">Calculo integral</td>
-                                    <td class="3er" data-tsmeta="3er">Algebra Lineal</td>
-                                    <td class="4to" data-tsmeta="4to">Sistemas Operativos 1</td>
-                                    <td class="5to" data-tsmeta="5to">Sistemas operativos 2</td>
-                                    <td class="6to" data-tsmeta="6to">Desarrollo de aplicaciones web</td>
-                                    <td class="7mo" data-tsmeta="7mo">Programacion en ambiente cliente-servidor</td>
-                                    <td class="8vo" data-tsmeta="8vo">Especialidad 2</td>
-                                    <td class="9no" data-tsmeta="9no">Optativa</td>
+                                    <td class="1er" data-tsmeta="1er">2:00PM - 3:30PM</td>
+                                    <td class="2do" data-tsmeta="2do">2:00PM - 3:30PM</td>
+                                    <td class="3er" data-tsmeta="3er">2:00PM - 3:30PM</td>
+                                    <td class="4to" data-tsmeta="4to">2:00PM - 3:30PM</td>
+                                    <td class="5to" data-tsmeta="5to">2:00PM - 3:30PM</td>
+                                    <td class="6to" data-tsmeta="6to">2:00PM - 3:30PM</td>
+                                    <td class="7mo" data-tsmeta="7mo">2:00PM - 3:30PM</td>
+                                    <td class="8vo" data-tsmeta="8vo">2:00PM - 3:30PM</td>
+                                    <td class="9no" data-tsmeta="9no">2:00PM - 3:30PM</td>
                                 </tr>
                                 <tr>
-                                    <td class="1er" data-tsmeta="1er">Fundamentos de investigacion</td>
-                                    <td class="2do" data-tsmeta="2do">Probabilidad y estadistica</td>
-                                    <td class="3er" data-tsmeta="3er">Investigacion de operaciones</td>
-                                    <td class="4to" data-tsmeta="4to">Taller de investigacion 1</td>
-                                    <td class="5to" data-tsmeta="5to">Desarrollo sustentable</td>
-                                    <td class="6to" data-tsmeta="6to">Taller de investigacion 2</td>
-                                    <td class="7mo" data-tsmeta="7mo">Seguridad informatica</td>
-                                    <td class="8vo" data-tsmeta="8vo">Desarrollo de aplicaciones para dispositivos moviles</td>
-                                    <td class="9no" data-tsmeta="9no"></td>
+                                    <td class="1er" data-tsmeta="1er">2:00PM - 3:30PM</td>
+                                    <td class="2do" data-tsmeta="2do">2:00PM - 3:30PM</td>
+                                    <td class="3er" data-tsmeta="3er">2:00PM - 3:30PM</td>
+                                    <td class="4to" data-tsmeta="4to">2:00PM - 3:30PM</td>
+                                    <td class="5to" data-tsmeta="5to">2:00PM - 3:30PM</td>
+                                    <td class="6to" data-tsmeta="6to">2:00PM - 3:30PM</td>
+                                    <td class="7mo" data-tsmeta="7mo">2:00PM - 3:30PM</td>
+                                    <td class="8vo" data-tsmeta="8vo">2:00PM - 3:30PM</td>
+                                    <td class="9no" data-tsmeta="9no">2:00PM - 3:30PM</td>
                                 </tr>
                             </tbody>
                         </table>

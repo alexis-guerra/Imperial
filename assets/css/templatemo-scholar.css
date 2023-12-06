@@ -288,8 +288,13 @@ Header Style
   background-color: #7a6ad8 !important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
+<<<<<<< HEAD
   position:  sticky;
   top: 0!important;
+=======
+  position: sticky;
+  top: 0;
+>>>>>>> parent of 586b582 (92%)
   left: 0;
   right: 0;
   width:100%;
@@ -676,7 +681,11 @@ Banner Style
 }
 
 .main-banner .item-1 {
+<<<<<<< HEAD
   background-image: url(assets/images/banner-item-02);
+=======
+  background-image: url(assets/images/banner-item-02.jpg);
+>>>>>>> parent of 586b582 (92%)
 }
 
 .main-banner .item-2 {
@@ -686,6 +695,7 @@ Banner Style
 .main-banner .item-3 {
   background-image: url();
 }
+
 
 .main-banner .item {
   background-repeat: no-repeat;

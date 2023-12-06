@@ -29,6 +29,7 @@ function clearText(field)
 <body> 
 
 
+<section class="section" id="schedule">
 
 <div id="templatemo_header_wrapper">
 	<div id="templatemo_header">
@@ -43,12 +44,14 @@ function clearText(field)
                 <div class="home_box left">
                 	<div class="row1 box box1">
                     	<div class="box_with_padding">
-                        	<h2><a href="#about">Beca "Jóvenes Escribiendo el Futuro":</a></h2>
+                        	<h2><a href="#about">Beca Alimenticia</a></h2>
+                         	Lorem ipsum dolor sit amet, consectetur adipiscing elit sagittis lacus. 
 						</div>
                     </div>
                     <div class="row1 box2">
                     	<div class="box_with_padding">
-                        	<h2><a href="#services">Beca "Manutención"</a></h2>
+                        	<h2><a href="#services">Beca aw</a></h2>
+                            Tech Layer is provided by templatemo and it can be used for any purpose.
 						</div>
                     </div>
                     <div class="row1 box3">
@@ -59,19 +62,23 @@ function clearText(field)
                     </div>
                     <div class="row1 box4">
                     	<div class="box_with_padding">
-                        	<h2><a href="#contact">Beca "Santander</a></h2>
+                        	<h2><a href="#contact">Beca fawd</a></h2>
+                            In hac habitasse platea dictumst quis facilisis enim magna faucibus.
 						</div>
                     </div>
                 </div>
  				<div class="home_box right">
+                	<div class="row1 box5">
                     <div class="row1 box4">
                     	<div class="box_with_padding">
-                        	<h2><a href="#contact">Beca "Telmex"</a></h2>
+                        	<h2><a href="#contact">Beca fawd</a></h2>
+                            In hac habitasse platea dictumst quis facilisis enim magna faucibus.
 						</div>
                     </div>
                     <div class="row1 box4">
                     	<div class="box_with_padding">
-                        	<h2><a href="#contact">Beca "Fundación UNAM"</a></h2>
+                        	<h2><a href="#contact">Beca fawd</a></h2>
+                            In hac habitasse platea dictumst quis facilisis enim magna faucibus.
 						</div>
                     </div>
                     

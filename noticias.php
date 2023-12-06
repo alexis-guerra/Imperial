@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Noticias</title>
+  <title>Motor Website Template</title>
   <meta name="description" content="">
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
@@ -29,7 +29,7 @@
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <h1>Noticias Recientes de tu Escuela</h1>
+            <h1>Conoce tu reglamento escolar</h1>
           </div>
         </div>
       </div>
@@ -44,42 +44,31 @@
                   <li>
                     <div class="about-slider">
                       <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
-                        <img src="assets/noticias/img/evaluacion.jpg" class="img-responsive" alt="Image">
+                        <img src="assets/noticias/img/about/1.jpg" class="img-responsive" alt="Image">
                       </div>
                       <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 about-slider-description">
                         <h2 class="text-uppercase welcome-title">
-                          	<span class="welcome-title-1">Evaluacion Docente</span>
-                      		<span class="welcome-title-2">Realiza la evaluacion docente a tiempo</span>
+                          	<span class="welcome-title-1">Performance</span>
+                      		<span class="welcome-title-2">for the speed</span>
                         </h2>
-                        <p class="welcome-message"></p>
+                        <p class="welcome-message">Motor is free Bootstrap v3.3.4 responsive web template provided 
+                by <span class="blue">template</span><span class="green">mo</span>.com website. You can download, 
+                modify and use this for your website projects. Please tell your friends about our templates. 
+                Thank you for visiting. Have fun!</p>
                       </div>              
                     </div>  
                   </li>
                   <li>
                     <div class="about-slider">
                       <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
-                        <img src="assets/noticias/img/hackaton.png" class="img-responsive" alt="Image">
+                        <img src="assets/noticias/img/about/1.jpg" class="img-responsive" alt="Image">
                       </div>
                       <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 about-slider-description">
                         <h2 class="text-uppercase welcome-title">
-                          <span class="welcome-title-1">Hackaton</span>
-                          <span class="welcome-title-2">Conoce a los ganadores del ultimo Hackaton</span>
+                          <span class="welcome-title-1">Find to own</span>
+                          <span class="welcome-title-2">the fast &amp; best</span>
                         </h2>
-                        <p class="welcome-message"></p>
-                      </div>              
-                    </div>  
-                  </li>
-                  <li>
-                    <div class="about-slider">
-                      <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
-                        <img src="assets/noticias/img/aniversario.png" class="img-responsive" alt="Image">
-                      </div>
-                      <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 about-slider-description">
-                        <h2 class="text-uppercase welcome-title">
-                          <span class="welcome-title-1">Aniversario</span>
-                          <span class="welcome-title-2">Tu escuela cumple un año más, conoce mas sobre ella.</span>
-                        </h2>
-                        <p class="welcome-message"></p>
+                        <p class="welcome-message">Lorem ipsum dolor sit amet, consectetuer adipiscing elit dori. Aenean commodo ligula eget. Aenean massa. Cumdent sociis natoque penatibus et magnis dis parturient montes, sor ind nascetur ridiculus mus. Lorem ipsum dolor sit amet dipiscing elit dori.</p>
                       </div>              
                     </div>  
                   </li>
@@ -96,65 +85,51 @@
       <div class="about-container">
       
         <div class="about-container-left">
-          <img src="assets/noticias/img/hackaton.png" alt="Image" class="img-responsive">
+          <img src="assets/noticias/img/about/2.jpg" alt="Image" class="img-responsive">
         </div>
         
         <div class="about-container-right">
-          <h2 class="about-title">Evaluacion Docente</h2>
-          <p class="about-description">¡Estimados estudiantes!
-
-Su participación en la evaluación docente es fundamental para mejorar la calidad educativa. Compartan sus experiencias, opiniones y sugerencias antes del 6 de diciembre. Su feedback es valioso para el crecimiento académico y la excelencia docente. ¡No pierdan la oportunidad de hacer oír sus voces y contribuir al fortalecimiento de la educación!</p>
+          <h2 class="about-title">One Column</h2>
+          <p class="about-description">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+          <p class="about-description">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.</p>
+          <a href="#" class="about-link">Duised sitDamet</a>
         </div>
         
       </div>
 
       <div class="about-container-2 margin-bottom-50">
         <div class="about-container-inner">
-          <h3 class="about-title-2">Hackaton</h3>
-          <img src="assets/noticias/img/hackaton.png" alt="Image" class="img-responsive margin-bottom-15">          
-          <p class="about-description">Estos son los ganadores del Hackaton Solana-TecTijuana, organizado por el Departamento de Sistemas y Computación, realizado los días 12 y 13 de octubre en Unidad Tomás Aquino.
-
-El primer lugar fue para el equipo que presentó el proyecto Zaneari, integrado por estudiantes de las carreras de Ingeniería en Sistemas Computacionales e Ingeniería Informática: Susan Sarahi Ponce Mejía, Yael Guillermo González Hernández, Ricardo Rioda Santiago Sánchez, Jesús Antonio Triana Corvera y José Pablo Triana Corvera, quienes se hicieron acreedores a un premio de mil 500 dólares en moneda digital. Zaneari, la nueva forma de encontrar servicios profesionales con contrato inteligente y blockchain, es una plataforma innovadora que transforma la búsqueda de servicios profesionales al usar contratos inteligentes y blockchain. Ofrece acceso a una diversidad de profesionales, con seguridad confiable y transparencia en las transacciones. Facilita el contacto directo con profesionistas y permite pagos en criptomoneda, proporcionando una solución completa para las necesidades de los usuarios.</p>
-          <a href="#" class="about-link about-link-2">Detalles</a>
+          <h3 class="about-title-2">Two Columns</h3>
+          <img src="assets/noticias/img/about/3.jpg" alt="Image" class="img-responsive margin-bottom-15">          
+          <p class="about-description">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+          <a href="#" class="about-link about-link-2">Details</a>
         </div>
         <div class="about-container-inner">
-          <h3 class="about-title-2">Aniversario Escolar</h3>
-          <img src="assets/noticias/img/aniversario.png" alt="Image" class="img-responsive margin-bottom-15">          
-          <p class="about-description">¡Feliz aniversario a toda la comunidad educativa!
-
-Hoy celebramos un año más de dedicación, aprendizaje y crecimiento en nuestra querida escuela. Cada logro, cada desafío superado y cada sonrisa compartida nos recuerdan que juntos construimos un espacio de conocimiento, amistad y superación. Que este aniversario nos inspire a seguir cultivando el amor por el aprendizaje y a forjar un futuro brillante para todos nuestros estudiantes. ¡Felicidades a todos por ser parte de esta gran familia escolar!</p>
-          <a href="#" class="about-link about-link-2">Detalles</a>
+          <h3 class="about-title-2">Two Columns</h3>
+          <img src="assets/noticias/img/about/4.jpg" alt="Image" class="img-responsive margin-bottom-15">          
+          <p class="about-description">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+          <a href="#" class="about-link about-link-2">Details</a>
         </div>
       </div>
       
       <div class="about-container-2">
         <div class="services-container-inner">
-          <h3 class="about-title-2">Conferencia: Derechos Humanos 2023</h3>
-          <img src="assets/noticias/img/confe.jpg" alt="Image" class="img-responsive margin-bottom-15">          
-          <p class="about-description">Se invita a la comunidad tecnológica a la conferencia Derechos Humanos 2023.
-
-📆 Fecha: 8 de diciembre de 2023.
-⏰ Hora: 10:00 am.
-📍 Lugar: Audiovisual 1 (Unidad Tomás Aquino).
-
-#TodosSomosTecNM #SomosGalgos #GalgosITT</p>
-          <a href="#" class="about-link about-link-2">Detalles</a>
+          <h3 class="about-title-2">Three Columns</h3>
+          <img src="assets/noticias/img/services-1.jpg" alt="Image" class="img-responsive margin-bottom-15">          
+          <p class="about-description">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+          <a href="#" class="about-link about-link-2">Details</a>
         </div>
         <div class="services-container-inner">
-          <h3 class="about-title-2">El Tecnológico Nacional de México, expresa su más sentido pésame por el sensible fallecimiento del Dr. Esteban Hernández Pérez</h3>
-          <img src="assets/noticias/img/pesame.jpg" alt="Image" class="img-responsive margin-bottom-15">          
-          <p class="about-description">El Tecnológico Nacional de México, expresa su más sentido pésame por el sensible fallecimiento del Dr. Esteban Hernández Pérez, ex Director General del TecNM (anteriormente: Sistema Nacional de Institutos Tecnológicos).
-
- 
-
-Descanse en paz y resignación para toda su familia.</p>
-          <a href="#" class="about-link about-link-2">Detalles</a>
+          <h3 class="about-title-2">Three Columns</h3>
+          <img src="assets/noticias/img/services-1.jpg" alt="Image" class="img-responsive margin-bottom-15">          
+          <p class="about-description">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+          <a href="#" class="about-link about-link-2">Details</a>
         </div>
         <div class="services-container-inner">
-          <h3 class="about-title-2">Equipo Galgo logra Primer Lugar Nacional en Ciencias Básicas</h3>
-          <img src="assets/noticias/img/ciencias.jpg" alt="Image" class="img-responsive margin-bottom-15">          
-          <p class="about-description">Los cinco estudiantes del Instituto Tecnológico de Tijuana volaron tan alto como un águila y corrieron tan veloces como un Galgo, que no los pudieron alcanzar. Así es, alumnos del Instituto Tecnológico de Tijuana, campus del Tecnológico Nacional de México (TecNM), lograron coronarse como los mejores en la categoría de Ciencias Básicas por equipos, en la final de la edición número 30 del Evento Nacional Estudiantil de Ciencias Básicas (ENCB 2023), realizado en el Tecnológico de Morelia, Michoacán, los días 23 y 24 de noviembre. La competencia académica institucional anual, que destaca la formación de la comunidad estudiantil del TecNM, se divide en las categorías de Ciencias Básicas y Ciencias Económico Administrativas, individuales y por equipos. El equipo de la casa de los Galgos que logró la hazaña lo conforman Octavio Frías Aviña, Fernando Orozco Fabre, José María Mendoza Zapata, Raúl Ferreyra García y Damián Ortiz González, con la asesoría de la profesora Sonia Moreno Cabral. El segundo lugar fue para el campus Nuevo Laredo y el tercero se lo llevó Tuxtla Gutiérrez.</p>
-          <a href="#" class="about-link about-link-2">Detalles</a>
+          <h3 class="about-title-2">Three Columns</h3>
+          <img src="assets/noticias/img/services-1.jpg" alt="Image" class="img-responsive margin-bottom-15">          
+          <p class="about-description">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+          <a href="#" class="about-link about-link-2">Details</a>
         </div>
       </div>
 
